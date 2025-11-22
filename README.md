@@ -1,2 +1,2 @@
 # RayReady-Solar-Company
-Solar Energy DIY Installation
+Solar Energy DIY Installations
